@@ -2,11 +2,17 @@
     margin: 0;
     padding: 0;
 }
+
+.intro{
+    background-color: rgb(202, 211, 219) !important;
+}
+
 .quiz{
     background-color: rgb(14, 21, 27);
 }
 .txt{
     color: rgb(14, 14, 27);
+    /* color: white; */
 }
 .txt1{
     color: rgb(14, 14, 27);
